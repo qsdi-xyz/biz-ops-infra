@@ -50,6 +50,10 @@ Free
 ## Oracle VirtualBox
 Recommended hypervisor for local dev/test
 
+## Podman
+Free
+OCI compliant container management/runtime platform
+
 ## Fedora Linux
 Recommended workstation
 
