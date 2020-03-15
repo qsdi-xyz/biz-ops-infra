@@ -45,6 +45,15 @@ Enterprise secrets and RSA/AES key management
 $499/user/year
 https://www.oreilly.com/online-learning/pricing.html
 
-## System76 Galago laptops
+## Laptops
+*NOTE: Microsoft OS will not be an option. Microsoft OS use will be limited to AWS Workspaces for testing purposes only. If employee or contractor candidate is not comfortable with this constraint he/she is not employable.*
+
+### System76 Galago laptops with choice of Ubuntu or Fedora (For developers)
 ~$1200-1600
 https://system76.com/laptops/galago
+
+### HP Chromebook x360 14-14" FHD Touch - Core i3-8130u - 8GB - 64GB eMMC - White and Blue (For business users)
+~$400-500
+
+### MacBook Air (For marketing/sales/C-level users)
+~1200-1300
