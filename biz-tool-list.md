@@ -25,6 +25,10 @@ https://gsuite.google.com/pricing.html?utm_source=google&utm_medium=cpc&utm_camp
 * Docs
 * Spreadsheets
 
+## HashiCorp Vault CE
+Free
+Enterprise secrets and RSA/AES key management
+
 ## Oreilly Online Learning
 $499/user/year
 https://www.oreilly.com/online-learning/pricing.html
