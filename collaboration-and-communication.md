@@ -4,7 +4,7 @@
 * All proprietary information and secrets should be secured and not communicated over any unsecure mode of communication.
 
 ## External communications
-* All communications between third-parties (customers and vendors) are conducted in Zoom, Slack, and GMail.
+* All communications between third-parties (customers and vendors) are conducted in Zoom, Slack, and GMail (from our perspective).
 * All proprietary and confidential information should be conducted in a secure manner. Open PGP encrypted email, attached files, Slack communication.
 * No proprietary or confidential information should be disseminated or recorded over Zoom.
 
