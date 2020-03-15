@@ -60,5 +60,11 @@ https://system76.com/laptops/galago
 ### MacBook Air (For marketing/sales/C-level users)
 ~1200-1300
 
-# Wireguard
+## Wireguard
 All information resources will only be accessible through a secure VPN (Wireguard).
+
+## Yubikey
+All human access will require MFA with hardware-secured key. All employees/contractors will be provided an open PGP key and RSA/AES key for authentication which may or may not be cross authenticated using X509 (TBD).
+
+## Meritocracy
+No matter what position you hold, your opinions/ideas/contributions will be disseminated, reviewed, considered, and implemented if they have merit. 
