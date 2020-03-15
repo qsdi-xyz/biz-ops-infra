@@ -48,7 +48,16 @@ Free
 ## HashiCorp Packer
 
 ## Oracle VirtualBox
+Recommended hypervisor for local dev/test
 
 ## Fedora Linux
+Recommended workstation
 
 ## AWS
+Cloud services
+
+## YubiKey
+Hardware key
+
+## GnuPG
+Open PGP
