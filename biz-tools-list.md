@@ -42,6 +42,8 @@ Free
 Enterprise secrets and RSA/AES key management
 
 ## Oreilly Online Learning
+*NOTE: This online learning subscription will be available for all employees. This should allow us to grow and retain relevent knowledge workers.*
+
 $499/user/year
 https://www.oreilly.com/online-learning/pricing.html
 
@@ -57,3 +59,6 @@ https://system76.com/laptops/galago
 
 ### MacBook Air (For marketing/sales/C-level users)
 ~1200-1300
+
+# Wireguard
+All information resources will only be accessible through a secure VPN (Wireguard).
