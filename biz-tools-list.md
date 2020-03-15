@@ -25,6 +25,15 @@ https://gsuite.google.com/pricing.html?utm_source=google&utm_medium=cpc&utm_camp
 * Docs
 * Spreadsheets
 
+## Chrome
+Free
+https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMIzL3Dt-2b6AIVUR6tBh3IfgUaEAAYASAAEgLnnPD_BwE&gclsrc=aw.ds
+
+## FlowCrypt
+Free
+https://chrome.google.com/webstore/detail/flowcrypt-encrypt-gmail-w/bnjglocicdkmhmoohhfkfkbbkejdhdgc?hl=en
+PGP encryption integration for GMail and attachments
+
 ## HashiCorp Vault CE
 Free
 Enterprise secrets and RSA/AES key management
@@ -32,3 +41,7 @@ Enterprise secrets and RSA/AES key management
 ## Oreilly Online Learning
 $499/user/year
 https://www.oreilly.com/online-learning/pricing.html
+
+## System76 Galago laptops
+~$1600
+https://system76.com/laptops/galago
