@@ -25,6 +25,9 @@ https://gsuite.google.com/pricing.html?utm_source=google&utm_medium=cpc&utm_camp
 * Docs
 * Spreadsheets
 
+## Firefox
+Free
+
 ## Chrome
 Free
 https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMIzL3Dt-2b6AIVUR6tBh3IfgUaEAAYASAAEgLnnPD_BwE&gclsrc=aw.ds
