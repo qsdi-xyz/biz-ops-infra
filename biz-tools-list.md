@@ -51,14 +51,19 @@ https://www.oreilly.com/online-learning/pricing.html
 *NOTE: Microsoft OS will not be an option. Microsoft OS use will be limited to AWS Workspaces for testing purposes only. If employee or contractor candidate is not comfortable with this constraint he/she is not employable.*
 
 ### System76 Galago laptops with choice of Ubuntu or Fedora (For developers)
+### MacBook Pro (For developers)
 ~$1200-1600
 https://system76.com/laptops/galago
 
-### HP Chromebook x360 14-14" FHD Touch - Core i3-8130u - 8GB - 64GB eMMC - White and Blue (For business users)
-~$400-500
+### IPad 2020 (For business users)
+~$750-850
+* Apple smart keyboard/cover
+* Apple Lightning Digital AV Adapter
+* OtterBox Symmetry Series Case for iPad (7th generation)
+* Apple Pencil (for those who need it)
 
 ### MacBook Air (For marketing/sales/C-level users)
-~1200-1300
+~1400-1700
 
 ## Wireguard
 All information resources will only be accessible through a secure VPN (Wireguard).
@@ -67,4 +72,4 @@ All information resources will only be accessible through a secure VPN (Wireguar
 All human access will require MFA with hardware-secured key. All employees/contractors will be provided an open PGP key and RSA/AES key for authentication which may or may not be cross authenticated using X509 (TBD).
 
 ## Meritocracy
-No matter what position you hold, your opinions/ideas/contributions will be disseminated, reviewed, considered, and implemented if they have merit. 
+No matter what position you hold, your opinions/ideas/contributions will be disseminated, reviewed, considered, and implemented if they have merit. Merit is determined by votes.
