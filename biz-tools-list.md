@@ -46,5 +46,5 @@ $499/user/year
 https://www.oreilly.com/online-learning/pricing.html
 
 ## System76 Galago laptops
-~$1600
+~$1200-1600
 https://system76.com/laptops/galago
